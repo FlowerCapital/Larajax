@@ -1,0 +1,2 @@
+# Larajax
+Laravel Ajax
